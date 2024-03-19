@@ -1,0 +1,38 @@
+{
+  "name": "private-ledger-tool",
+  "version": "1.0.0",
+  "description": "Secure your transactions with Private Ledger Tool, a toolkit for implementing private and confidential ledger solutions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quasarasauq/private-ledger-tool"
+  },
+  "author": "quasarasauq",
+  "license": "MIT",
+  "dependencies": {
+    "private-ledger-tool": "1.0.0",
+    "coldwallet-enhancer-kit": "1.0.0",
+    "jquery": "1.0.0",
+    "react-redux": "1.0.0",
+    "xml2js": "1.0.0",
+    "sinon": "1.0.0",
+    "axios": "1.0.0",
+    "helmet": "1.0.0",
+    "passport": "1.0.0",
+    "chalk": "1.0.0",
+    "moment": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "webpack": "1.0.0",
+    "mongoose": "1.0.0",
+    "truffle": "1.0.0",
+    "cheerio": "1.0.0",
+    "web3-utils": "1.0.0",
+    "web3-react": "1.0.0",
+    "async": "1.0.0",
+    "jest": "1.0.0",
+    "dotenv": "1.0.0"
+  }
+}
